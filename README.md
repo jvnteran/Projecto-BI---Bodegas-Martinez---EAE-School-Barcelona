@@ -22,7 +22,6 @@ La empresa vinícola Bodegas Martínez desea integrar la analítica de datos en 
 │
 ├── README.md
 ├── Bodegas_Martinez_Analysis.pdf       # Informe final en PDF
-├── Bodegas_Martinez_Analysis.docx      # Versión editable en Word
 ├── top10_productos.png                 # Gráfico de productos más vendidos
 ├── categoria_pie.png                   # Gráfico por categoría
 ├── tamano_botella.png                  # Gráfico por tamaño de botella
@@ -37,7 +36,6 @@ La empresa vinícola Bodegas Martínez desea integrar la analítica de datos en 
 ## 🔍 Herramientas Utilizadas
 
 - **Microsoft Excel** – Limpieza e integración de datos
-- **Python (pandas, matplotlib)** – Análisis y generación de gráficas
 - **Tableau** – Visualización interactiva de ventas por zona
 - **Microsoft Word / PDF** – Documentación y presentación final
 
